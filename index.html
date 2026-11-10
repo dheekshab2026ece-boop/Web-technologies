@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CampusCare</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>CampusCare</h1>
+        <p>Smart Campus Issue Reporting System</p>
+    </header>
+
+    <main>
+        <h2>Report a Campus Issue</h2>
+
+        <form id="issueForm">
+
+            <input type="text" id="name"
+            placeholder="Student Name" required>
+
+            <select id="category" required>
+                <option value="">Select Category</option>
+                <option>Electrical</option>
+                <option>Water</option>
+                <option>Cleanliness</option>
+                <option>Classroom</option>
+            </select>
+
+            <input type="text" id="location"
+            placeholder="Enter Location" required>
+
+            <textarea id="description"
+            placeholder="Describe the issue"
+            required></textarea>
+
+            <button type="submit">Submit Complaint</button>
+
+        </form>
+
+        <h2>Complaint Dashboard</h2>
+
+        <div id="complaints"></div>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
