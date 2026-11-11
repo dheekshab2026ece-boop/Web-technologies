@@ -11,7 +11,7 @@ Target users
 2. Faculty members: Report classroom and laboratory issues.
 3. Maintenance staff: View and resolve reported problems.
 4. College administrators: Monitor complaints and their status.
-<br><br>
+<br>
 Purpose of the application
 <br>
 1. Make campus complaint reporting easier.<br>
