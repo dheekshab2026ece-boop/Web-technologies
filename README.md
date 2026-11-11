@@ -1,8 +1,25 @@
 # Web-technologies
-This is my 1st repository
+Problem statement:
 <br>
-Author-Dheeksha
+In colleges, students often face problems such as damaged classroom equipment, faulty fans, lighting issues, water shortages and unclean surroundings.
+Currently, reporting these problems and tracking whether they have been resolved can be difficult.
+CampusCare is a web-based application that allows students to report campus-related problems online and helps college management monitor and manage those complaints efficiently.
+<br> <br>
+Target users
 <br>
+1. Students: Report problems occurring on campus.
+2. Faculty members: Report classroom and laboratory issues.
+3. Maintenance staff: View and resolve reported problems.
+4. College administrators: Monitor complaints and their status.
+<br> <br>
+Purpose of the application
+<br>
+1. Make campus complaint reporting easier.
+2. Reduce the time taken to communicate problems.
+3. Maintain a record of reported issues.
+4. Help management track complaint resolution.
+5. Improve the overall campus environment.
+<br><br>
 Figma wireframe
 <br>
 view the wireframe here:
