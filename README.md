@@ -11,13 +11,13 @@ Target users
 2. Faculty members: Report classroom and laboratory issues.
 3. Maintenance staff: View and resolve reported problems.
 4. College administrators: Monitor complaints and their status.
-<br> <br>
+<br><br>
 Purpose of the application
 <br>
-1. Make campus complaint reporting easier.
-2. Reduce the time taken to communicate problems.
-3. Maintain a record of reported issues.
-4. Help management track complaint resolution.
+1. Make campus complaint reporting easier.<br>
+2. Reduce the time taken to communicate problems.<br>
+3. Maintain a record of reported issues.<br>
+4. Help management track complaint resolution.<br>
 5. Improve the overall campus environment.
 <br><br>
 Figma wireframe
